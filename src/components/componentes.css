@@ -1,0 +1,9 @@
+.retorno{
+    position: absolute; /* Posiciona o botão em relação ao pai (Navbar) */
+  left: 20px; /* Afasta do lado esquerdo */
+  top: 10px; /* Ajusta a posição vertical */
+  background-color: transparent; /* Fundo transparente */
+  border: none; /* Remove borda padrão */
+  color: #007bff; /* Cor do texto do botão */
+
+}
